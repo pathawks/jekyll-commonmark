@@ -33,6 +33,6 @@ To specify [extensions](https://github.com/gjtorikian/commonmarker#extensions) a
 
 ```yaml
 commonmark:
-  options: ["SMART", "FOOTNOTES"]
+  options: ["FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table"]
 ```
